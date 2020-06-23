@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa4b4c67549849b707e1da566b98d518",
+    "revision": "927d0110069e9ceaeb04077ac6413084",
     "url": "/Smeet-Project/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Smeet-Project/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "f2f3df194ff9b38c015f",
-    "url": "/Smeet-Project/static/css/main.deb1de32.chunk.css"
+    "revision": "a5014db275eafb5d5db1",
+    "url": "/Smeet-Project/static/css/main.45ce6e7b.chunk.css"
   },
   {
     "revision": "ecf09581e4a4e056c205",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Smeet-Project/static/js/2.a7772ae8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2f3df194ff9b38c015f",
-    "url": "/Smeet-Project/static/js/main.356df92e.chunk.js"
+    "revision": "a5014db275eafb5d5db1",
+    "url": "/Smeet-Project/static/js/main.c5abaccc.chunk.js"
   },
   {
     "revision": "68ba69c521aee06cac4d",

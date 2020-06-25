@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Smeet-Project/precache-manifest.7ec86f7046e3312ab41f478be5951924.js"
+  "/Smeet-Project/precache-manifest.f382277ca93d902e74c2bb4b273acfcb.js"
 );
 
 self.addEventListener('message', (event) => {
